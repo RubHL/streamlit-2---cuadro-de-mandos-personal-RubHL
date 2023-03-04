@@ -140,3 +140,5 @@ Ejecutamos:
 
 ## Publica la aplicación.
 Publica la aplicación en Streamlit Cloud, en Heroku o en el servicio que prefieras https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app
+___
+https://rubhl-streamlit-2---cuadro-de-mandos-personal-rubhl-app-kxzvvm.streamlit.app/
